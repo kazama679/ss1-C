@@ -1,0 +1,49 @@
+* Mảng (Array)	
+Đặc điểm chính:
+- Dữ liệu lưu trữ liên tục trong bộ nhớ.
+- Truy cập phần tử theo chỉ số (O(1)).
+- Kích thước cố định.	
+Ứng dụng phổ biến:
+- Thích hợp cho các bài toán truy cập ngẫu nhiên.
+- Cấu trúc nền tảng cho ma trận, bảng.
+
+* Danh sách liên kết (LinkedList)
+Đặc điểm chính:
+- Các phần tử được liên kết thông qua con trỏ.
+- Kích thước động.
+- Truy cập tuần tự (O(n)).
+Ứng dụng phổ biến:
+- Thích hợp cho các bài toán cần chèn, xóa nhanh.
+- Cấu trúc nền tảng cho danh sách.
+
+* Ngăn xếp (Stack)
+Đặc điểm chính:
+- Nguyên tắc LIFO (Last In, First Out).
+- Chỉ thao tác ở đầu ngăn xếp.
+Ứng dụng phổ biến:
+- Quản lý các lời gọi hàm (call stack).
+- Phân tích biểu thức (dấu ngoặc, hậu tố).
+
+* Hàng đợi (Queue)	
+Đặc điểm chính:
+- Nguyên tắc FIFO (First In, First Out).
+- Thao tác ở hai đầu (enqueue và dequeue).	
+Ứng dụng phổ biến:
+- Quản lý hàng đợi công việc.
+- Tối ưu hóa tài nguyên hệ thống.
+
+* Cây (Tree)
+Đặc điểm chính:	
+- Cấu trúc phân cấp.
+- Có một nút gốc và các nút con.	
+Ứng dụng phổ biến:
+- Lưu trữ dữ liệu phân cấp (hệ thống tập tin).
+- Tìm kiếm nhị phân (Binary Search Tree).
+
+* Đồ thị (Graph)	
+Đặc điểm chính:
+- Gồm các đỉnh (vertices) và cạnh (edges).
+- Có thể có hướng hoặc vô hướng.	
+Ứng dụng phổ biến:
+- Mô phỏng mạng xã hội, mạng máy tính.
+- Giải thuật tìm đường (Dijkstra, BFS, DFS).
