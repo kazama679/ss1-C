@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="Trang-1" id="PWqbAUBDVDg0_NG8nob6">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DMvfr0gqALd61OnoALRq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DMvfr0gqALd61OnoALRq-1" target="DMvfr0gqALd61OnoALRq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMvfr0gqALd61OnoALRq-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DMvfr0gqALd61OnoALRq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DMvfr0gqALd61OnoALRq-2" target="DMvfr0gqALd61OnoALRq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMvfr0gqALd61OnoALRq-2" value="int arr=[2, 4, 5, 1, 7, 9]&lt;div&gt;&lt;span class=&quot;hljs-type&quot;&gt;int&lt;/span&gt; length = &lt;span class=&quot;hljs-keyword&quot;&gt;sizeof&lt;/span&gt;(arr) / &lt;span class=&quot;hljs-keyword&quot;&gt;sizeof&lt;/span&gt;(arr[&lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;])&lt;/div&gt;&lt;div&gt;int b=arr[0]&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="200" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMvfr0gqALd61OnoALRq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DMvfr0gqALd61OnoALRq-4" target="DMvfr0gqALd61OnoALRq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMvfr0gqALd61OnoALRq-4" value="for(int i=1: i&amp;lt;length: i++){&lt;br&gt;if(b&amp;gt;arr[i]){&lt;br&gt;b=arr[i]&lt;br&gt;}&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="300" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DMvfr0gqALd61OnoALRq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DMvfr0gqALd61OnoALRq-6" target="DMvfr0gqALd61OnoALRq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMvfr0gqALd61OnoALRq-6" value="b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMvfr0gqALd61OnoALRq-8" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
