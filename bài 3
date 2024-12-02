@@ -1,0 +1,19 @@
+1. Lưu trữ danh sách sinh viên theo thứ tự nhập vào:
+- Danh sách liên kết (LinkedList).
+- Lý do: Danh sách liên kết cho phép chèn phần tử ở cuối, Dễ dàng mở rộng mà không cần xác định kích thước trước.
+
+2. Tìm kiếm nhanh tên một sản phẩm trong danh sách hàng triệu sản phẩm:
+- Bảng băm (Hash Table)
+- Lý do: Bảng băm cho phép tìm kiếm phần tử, phù hợp với danh sách lớn nhờ khả năng truy cập trực tiếp thông qua khóa (key).
+
+3. Quản lý danh sách các task công việc cần xử lý theo thứ tự ưu tiên:
+- Hàng đợi ưu tiên (Priority Queue)
+- lý do: Hàng đợi ưu tiên cho phép sắp xếp các task theo mức độ ưu tiên và xử lý task quan trọng nhất trước.
+
+4. Lưu trữ dữ liệu hệ thống phân cấp như thư mục máy tính:
+- Cây (Tree)
+- lý do: dễ dàng biểu diễn mối quan hệ cha-con, dễ dàng thực hiện các thao tác như duyệt, tìm kiếm, và thêm thư mục hoặc tập tin.
+
+5. Tìm đường đi ngắn nhất giữa 2 điểm trên bản đồ:
+- Đồ thị (Graph)
+- Lý do: Đồ thị biểu diễn mạng lưới giao thông hoặc các điểm kết nối.
